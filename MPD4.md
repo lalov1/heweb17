@@ -36,6 +36,13 @@ Beginning of every month (1st day)
 
 Put your phones down and be intentional and get stuff done
 
+## Takeaways
+- Take Fridays off
+
 ## Screenshots 
-- 
+- https://www.dropbox.com/s/el14ks4tid9nno9/2017-10-09%2015.24.47.jpg?dl=0
+- https://www.dropbox.com/s/scos4g5lhghwmb3/2017-10-09%2015.25.28.jpg?dl=0
+- https://www.dropbox.com/s/s8enwnwskoq21qj/2017-10-09%2015.28.21.jpg?dl=0
+- https://www.dropbox.com/s/gb12cnim8d1zi0h/2017-10-09%2015.29.27.jpg?dl=0
+- https://www.dropbox.com/s/o4vh2mpoxzyozpg/2017-10-09%2015.39.12.jpg?dl=0
 - 
