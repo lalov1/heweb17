@@ -10,4 +10,5 @@ Notes from HighEdWeb17
 - [AIM5 - From Classic, Universal, to Google Tag Manager: How to Safely defeat the Beast](AIM5.md)
 
 ## Day 2
-- 
+- [AIM6 - Beyond Mobile](AIM6.md)
+- [MPD7 - Beyond Mobile](MPD7.md)
