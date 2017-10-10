@@ -1,4 +1,5 @@
 # DPA2 - All the nuggets IRL
+- https://link.highedweb.org/2017/10/dpa2-all-the-nuggets-irl/
 
 Be awesome to people.
 - Be everywhere 

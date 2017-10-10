@@ -1,6 +1,6 @@
 # HighEdWeb 17
 
-Notes from HighEdWeb17
+# Notes from HighEdWeb17
 
 ## Day 1
 - [AIM1 - Building a Campus Map from GIS Data](AIM1.md)
@@ -11,4 +11,10 @@ Notes from HighEdWeb17
 
 ## Day 2
 - [AIM6 - Beyond Mobile](AIM6.md)
-- [MPD7 - Beyond Mobile](MPD7.md)
+- [MPD7 - Five mistakes that make us successful](MPD7.md)
+- [DPA8 - WHILE (TRUE) { INTRANET(); }](MPD7.md)
+- [MPD9 - Debunking Myths and HIPPOS with Google Analytics](MPD9.md)
+- [AIM10 - Beyond Basics: Advanced GA in Higher Ed](AIM10.md)
+- [DPA11 - Trials and Tribulations of Building an App with React/Redux](DPA11.md)
+## Day 3
+- []()
