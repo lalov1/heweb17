@@ -17,4 +17,4 @@
 - [AIM10 - Beyond Basics: Advanced GA in Higher Ed](AIM10.md)
 - [DPA11 - Trials and Tribulations of Building an App with React/Redux](DPA11.md)
 ## Day 3
-- []()
+- [MPD11 - The Art Science of Collaboration](MPD11.md)
