@@ -16,14 +16,14 @@ State - How things are (changeable)
 
 ## Planning your React App
 - Ask a lot of questions
-    - [Screenshot]()
-    - [Planning your React app]()
-- [Determine architecture and API's needed]()
+    - [Planning your React app](https://www.dropbox.com/s/44gb8a2lxoxhy0p/2017-10-10%2016.31.31.jpg?dl=0)
+- [Determine architecture and API's needed](https://www.dropbox.com/s/1ie5nh2emka3blb/2017-10-10%2016.32.58.jpg?dl=0)
 - Make a list of components, state, props...
 
 Use React/Redux Dev Tools
 
 ## Screenshots
--
+- https://www.dropbox.com/s/5bdl0yw56bo8n6g/2017-10-10%2016.30.24.jpg?dl=0
 
-## Takeaways 
+## Takeaways
+- Highly adopted. Should we use? 

@@ -1,4 +1,5 @@
 # MPD9 - Debunking Myths and HIPPOS with Google Analytics
+- https://link.highedweb.org/2017/10/mpd9-au-contraire-debunking-myths-and-hippos-with-google-analytics/
 - Alan Etkin
 - alan_etikin@bcit.ca
 - @PlatinumToaster
@@ -28,6 +29,7 @@ Myth - Don't forget about your desktop users if the traffic is outperforming you
 - https://www.dropbox.com/s/kupccmr7k05tqbx/2017-10-10%2012.16.00.jpg?dl=0
 - https://www.dropbox.com/s/vcm0lxqb0w74oba/2017-10-10%2012.17.14.jpg?dl=0
 - https://www.dropbox.com/s/nnfcb184s3txffb/2017-10-10%2012.17.45.jpg?dl=0
+- https://www.dropbox.com/s/10w7ppr1jploswl/2017-10-10%2012.19.57.jpg?dl=0
 - https://www.dropbox.com/s/2rwvzb58u3jg6te/2017-10-10%2012.21.42.jpg?dl=0
 - https://www.dropbox.com/s/1x4phx0mm5le71r/2017-10-10%2012.23.51.jpg?dl=0
 
