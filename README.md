@@ -12,7 +12,7 @@
 ## Day 2
 - [AIM6 - Beyond Mobile](AIM6.md)
 - [MPD7 - Five mistakes that make us successful](MPD7.md)
-- [DPA8 - WHILE (TRUE) { INTRANET(); }](MPD7.md)
+- [DPA8 - WHILE (TRUE) { INTRANET(); }](DPA8.md)
 - [MPD9 - Debunking Myths and HIPPOS with Google Analytics](MPD9.md)
 - [AIM10 - Beyond Basics: Advanced GA in Higher Ed](AIM10.md)
 - [DPA11 - Trials and Tribulations of Building an App with React/Redux](DPA11.md)
